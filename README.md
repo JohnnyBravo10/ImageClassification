@@ -1,7 +1,7 @@
 # CV-PR
 Computer Vision and Pattern Recognition Project
 
-This repository contains the report and the code of the project realized by Federico Pellizzaro, Giovanni Zanin, and me for the CP&PR course attended in fall 2023.
+This repository contains the report, 'Report.pdf', and the code of the project realized by Federico Pellizzaro, Giovanni Zanin, and me for the CP&PR course attended in fall 2023.
 
 You can find the training set and test set at the following links, respectively:
 - https://drive.google.com/drive/folders/1P88xeAuBvkAsUViUaGvmEJRkNNoN1kDA?usp=drive_link
